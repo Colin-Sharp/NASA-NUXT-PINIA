@@ -1,6 +1,6 @@
 # Nuxt.js 3 NASA app
 
-This is a show case of the latest version of Nuxt. If you just want to see it in action quickly it is hosted here: [On my Netlify](https://nasa-colinsinclairsmith.netlify.app/).
+This is a show case of the latest version of Nuxt. If you just want to see it in action quickly it is hosted here: [On my Netlify](https://nasa-nuxt-pinia.netlify.app/).
 
 ## Setup locally
 
